@@ -1,5 +1,3 @@
-# Microcontroller-Project
-
 # Microcontroller Projects | Embedded Systems Portfolio
 
 ## Professional Summary
