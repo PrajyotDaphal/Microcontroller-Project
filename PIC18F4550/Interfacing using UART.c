@@ -1,7 +1,4 @@
 #include<pic.h>
-
-__CONFIG(0x3f72);
-
 #define FOSC 		10000										
 #define BAUD_RATE	9.6											
 #define BAUD_VAL	(char)(FOSC/ (16 * BAUD_RATE )) - 1;		//Calculation For 9600 Baudrate @10Mhz
